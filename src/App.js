@@ -568,4 +568,5 @@ const LiveSupportSystem = () => {
   );
 };
 
-export default App;
+
+export default LiveSupportSystem;
